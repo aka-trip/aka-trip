@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Akash</h1>
 <h3 align="center">I'm a passionate Python Developer from India.</h3>
 
-
+<!-- 
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **aka.devep@gmail.com**
 
-- ⚡ Fun fact **I am just bored.**
+- ⚡ Fun fact **I am just bored.** -->
 
 ## 🚀 Languages and Tools:
 
