@@ -1,7 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://user-images.githubusercontent.com/64101245/153709440-a53a82a2-2917-4020-bc06-97d8d797f967.png" height="175px"/></a>
 
-<h1 align="center">Hi👽</h1>
-<h1 align="center">I'm Akash <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hi👽 I'm Akash <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">I'm a passionate Python Developer from India.</h3>
 
 
@@ -62,13 +61,12 @@
       </a>
   </p>
 
-
-## Connect with me:
+<h1 align="center">🔹Connect with me:</h1>
 <p align="center">
     <a href = "https://www.linkedin.com/in/-akash-tripathi-/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
     <a href = "https://twitter.com/trip1_1"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
     <a href = "https://www.instagram.com/trip1_1/?hl=en"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
     <a href = "https://medium.com/@aka-trip"><img src="https://img.icons8.com/color/48/000000/medium.png"/></a>
 </p>
-<p><a href="https://github.com/aka-trip?tab=followers"><img src="https://img.shields.io/github/followers/aka-trip?label=Followers&style=social" alt="GitHub Badge"></a></p>
+<p align="center"><a href="https://github.com/aka-trip?tab=followers"><img src="https://img.shields.io/github/followers/aka-trip?label=Followers&style=social" alt="GitHub Badge"></a></p>
 
