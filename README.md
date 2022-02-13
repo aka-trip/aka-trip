@@ -40,11 +40,11 @@
    <p align="center">
       <img
         height="160em"
-        src="https://github-readme-stats.vercel.app/api?username=aka-trip&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&bg_color=232e48&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
+        src="https://github-readme-stats.vercel.app/api?username=aka-trip&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
       />
     <img
         height="160em"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=aka-trip&show_icons=true&hide_border=true&layout=compact&langs_count=6&theme=dark&bg_color=232e48&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=aka-trip&show_icons=true&hide_border=true&layout=compact&langs_count=6&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
       />
   </p>
 
