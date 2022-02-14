@@ -35,24 +35,28 @@
 <br/>
 
 <hr>
-<h1 align="center">💹 Github Stats</h1>
+<h4 align="center">💹 Github Stats</h4>
  
    <p align="center">
       <img
         height="160em"
-        src="https://github-readme-stats.vercel.app/api?username=aka-trip&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
+        src="https://github-readme-stats.vercel.app/api?username=aka-trip&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&bg_color=232e48&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
       />
     <img
         height="160em"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=aka-trip&show_icons=true&hide_border=true&layout=compact&langs_count=6&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=aka-trip&show_icons=true&hide_border=true&layout=compact&langs_count=6&theme=dark&bg_color=232e48&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
+      />
+      <img
+        width="750em"
+        src="https://activity-graph.herokuapp.com/graph?username=aka-trip&theme=react-dark&hide_border=true&bg_color=232e48&area=true"
+      />
+	<img
+        width="750em"
+        src="https://github-readme-stats.vercel.app/api/wakatime?username=aka-trip&hide_border=true&bg_color=232e48&area=true&text_color=ffffff&custom_title=Coding+be+like+;)&title_color=ffffff&layout=compact"
       />
   </p>
+ <p align="center" ><img src="https://github.com/sparsh-007aka-trip/README/blob/main/images/stat.svg" alt="Alternative Text"/></P>
 
-  <p align="center">
-      <a href="https://github.com/aka-trip/github-readme-streak-stats">
-          <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Akash Tripathi's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=aka-trip&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-      </a>
-  </p>
 
 <h2 align="center">🔹Connect with me:</h2>
 <p align="center">
