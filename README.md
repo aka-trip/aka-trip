@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://user-images.githubusercontent.com/64101245/153726935-e3c7963a-b1d7-48c4-9e8d-3985baae707f.jpg" height="175px"/></a>
 
-<h1 align="center">Hi👽 I'm Akash <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hi I'm Akash <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">I'm a passionate Python Django Developer.</h3>
 
 
